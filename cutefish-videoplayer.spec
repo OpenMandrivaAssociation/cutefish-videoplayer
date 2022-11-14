@@ -3,7 +3,7 @@
 
 Name:           cutefish-videoplayer
 Version:        0.5
-Release:        2
+Release:        3
 Summary:        Video Player
 License:        GPL-3.0-or-later
 Group:          Productivity/Multimedia/Video/Players
